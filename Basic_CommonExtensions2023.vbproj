@@ -71,10 +71,15 @@
     <Compile Include="1.System_Extensions.vb" />
     <Compile Include="2.Datatypes.vb" />
     <Compile Include="4.HardwareSystemInterfaces.vb" />
-    <Compile Include="AI_SDK_Ext_Trees.vb" />
+    <Compile Include="Maths\AI_SDK_Ext_Trees.vb" />
+    <Compile Include="Maths\BasicRegression.vb" />
+    <Compile Include="Maths\BinaryTree.vb" />
     <Compile Include="ClassAsyncHelpers.vb" />
+    <Compile Include="Maths\Conversion_Extensions.vb" />
     <Compile Include="Functions.vb" />
-    <Compile Include="Maths.vb" />
+    <Compile Include="Maths\MathFunctions.vb" />
+    <Compile Include="Maths\Maths.vb" />
+    <Compile Include="Maths\MathsExt.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -91,9 +96,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Strings.vb" />
-    <Compile Include="TDM_Extensions.vb" />
-    <Compile Include="TextPreProcessing.vb" />
+    <Compile Include="Maths\RandomFactory.vb" />
+    <Compile Include="Maths\Statistic.vb" />
+    <Compile Include="Text\Strings.vb" />
+    <Compile Include="Text\TDM_Extensions.vb" />
+    <Compile Include="Text\TextPreProcessing.vb" />
     <Compile Include="TypeLibraries.vb" />
     <Compile Include="Web.vb" />
   </ItemGroup>
