@@ -1,7 +1,7 @@
 ﻿Imports System.Web.Script.Serialization
 Imports System.Windows.Forms
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.Strings
-Imports SpydazWebAI.SystemExtensions.Datatypes.Syllogism
+Imports SystemExtensions.AI_SDK_EXTENSIONS.Strings
+Imports SystemExtensions.Datatypes.Syllogism
 
 Namespace Datatypes
 

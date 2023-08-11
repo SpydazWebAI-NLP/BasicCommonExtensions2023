@@ -5,8 +5,8 @@ Imports System.Text.RegularExpressions
 Imports System.Web.Script.Serialization
 Imports System.Windows.Forms
 Imports System.Xml.Serialization
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.Strings.Grammar
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.Strings.Tokens
+Imports SystemExtensions.AI_SDK_EXTENSIONS.Strings.Grammar
+Imports SystemExtensions.AI_SDK_EXTENSIONS.Strings.Tokens
 
 Namespace AI_SDK_EXTENSIONS
 

@@ -6,9 +6,9 @@ Imports System.Text.RegularExpressions
 Imports System.Web.Script.Serialization
 Imports System.Windows.Forms
 Imports System.Xml.Serialization
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.MathsExt.Maths
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.Strings
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.Strings.Grammar
+Imports SystemExtensions.AI_SDK_EXTENSIONS.MathsExt.Maths
+Imports SystemExtensions.AI_SDK_EXTENSIONS.Strings
+Imports SystemExtensions.AI_SDK_EXTENSIONS.Strings.Grammar
 
 Namespace DesignPatterns
 

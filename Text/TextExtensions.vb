@@ -1,7 +1,7 @@
 ﻿Imports System.Text
 Imports System.Text.RegularExpressions
 Imports System.Web.Script.Serialization
-Imports SpydazWebAI.SystemExtensions.AI_SDK_EXTENSIONS.Strings
+Imports SystemExtensions.AI_SDK_EXTENSIONS.Strings
 Namespace Common_NLP_Tasks
 
     Namespace LanguageModelling

@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
         
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.SpydazWebAI.SystemExtensions.My.MySettings
+        Friend ReadOnly Property Settings() As Global.SystemExtensions.My.MySettings
             Get
-                Return Global.SpydazWebAI.SystemExtensions.My.MySettings.Default
+                Return Global.SystemExtensions.My.MySettings.Default
             End Get
         End Property
     End Module
